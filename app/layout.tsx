@@ -3,9 +3,6 @@ import "./globals.css";
 export const metadata = {
   title: "Biomedicina estética",
   description: "Procedimentos estéticos premium",
-  icons: {
-    icon: "/icon.png",
-  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
